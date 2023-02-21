@@ -53,3 +53,11 @@
  nav > a {
   color: #967E76;
  }
+
+ .form-element {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ }
+
+ /* .form- */
